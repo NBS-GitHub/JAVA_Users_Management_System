@@ -1,0 +1,21 @@
+
+    UMS - THE MANAGEMENT OF TOMORROW
+Welcome to the latest version of the Users Management System - UMS.
+
+Create a UMS by instantiating the UsersSystem class.
+As a UMS administrator, you have a wide range of useful methods at your disposal.
+These are the methods available at each UsersSystem instance:
+
+- addUser(String firstName, String lastName, boolean hasPremium),
+- removeUser(int id),
+- showFirstName(int id),
+- changeFirstName(int id, String newFirstName),
+- showLastName(int id),
+- changeLastName(int id, String newLastName),
+- showPremiumStatus(int id),
+- changePremiumStatus(int id),
+- showUserInfo(int id),
+- showUsersCount().
+
+We make your life better.
+    the UMS Team
